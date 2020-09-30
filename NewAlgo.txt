@@ -3,3 +3,4 @@ Algorithms list:
 2. Greedy Method
 3. Dynamic Programming
 4. Selection sorting method
+5. Do the brute force method 
