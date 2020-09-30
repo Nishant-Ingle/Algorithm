@@ -2,4 +2,8 @@ Algorithms list:
 1. Divide and Conquer
 2. Greedy Method
 3. Dynamic Programming
+ new-branch
 4. Selection Sort
+=======
+4. Selection sorting method
+ master
