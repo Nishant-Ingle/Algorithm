@@ -10,11 +10,9 @@ return -1
 x=int(input("enter element to search "))
 #calling function
 result=linearSearch(x)
-
-2
-
+6
 if (result == 1):
 y=numberList.index(x)
-print('element found at index',str(y))
+print('element is found at index',str(y))
 else:
-print('element not present in array')
+print('element is not present in array')
