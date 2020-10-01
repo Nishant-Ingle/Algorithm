@@ -10,6 +10,7 @@ mid=(high+low)//2
 if sortedList[mid]==x:
 return mid
 elif sortedList[mid]>x:
+//Recurrsion
 return binarySearch(sortedList,low,mid-1,x)
 else:
 return binarySearch(sortedList, mid+1, high,x)
